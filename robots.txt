@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hjschifferverwaltungsgmbh.shop/sitemap.xml
